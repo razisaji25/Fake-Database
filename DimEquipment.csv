@@ -1,0 +1,10 @@
+equipment_key,equipment_code,equipment_name,equipment_type,capacity,unit,is_active
+1,EQP-001,Excavator PC2000,Excavator,12,m3,TRUE
+2,EQP-002,Excavator PC1250,Excavator,6.7,m3,TRUE
+3,EQP-003,Dump Truck HD785,Dump Truck,91,ton,TRUE
+4,EQP-004,Dump Truck HD465,Dump Truck,67,ton,TRUE
+5,EQP-005,Bulldozer D375A,Dozer,0,unit,TRUE
+6,EQP-006,Drill Rig DM45,Drill Rig,0,unit,TRUE
+7,EQP-007,Motor Grader GD825,Grader,0,unit,TRUE
+8,EQP-008,Water Pump 8 Inch,Pump,8,inch,TRUE
+9,EQP-009,Excavator PC800,Excavator,4.2,m3,FALSE

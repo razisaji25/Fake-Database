@@ -1,0 +1,5 @@
+contract_key,contract_code,contract_name,client_name,contract_type,start_date,end_date,is_active
+1,CTR-001,Kontrak Jasa Pertambangan Adaro 2026,PT Hasnur Riung Sinergi,Mining Services,2026-01-01,2028-12-31,TRUE
+2,CTR-002,Kontrak Overburden Removal Berau,PT Hasnur Riung Sinergi,Overburden Removal,2025-06-01,2027-05-31,TRUE
+3,CTR-003,Kontrak Hauling Kutai Timur,PT Hasnur Riung Sinergi,Hauling Services,2026-01-15,2026-12-31,TRUE
+4,CTR-004,Kontrak Coal Getting Muara Wahau,PT Hasnur Riung Sinergi,Coal Getting,2025-09-01,2026-08-31,TRUE

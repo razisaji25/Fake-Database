@@ -1,0 +1,6 @@
+site_key,site_code,site_name,location,region,is_active
+1,SITE-A,Pit Adaro Utara,Tabalong,Kalimantan Selatan,TRUE
+2,SITE-B,Pit Berau Timur,Berau,Kalimantan Timur,TRUE
+3,SITE-C,Pit Kutai Selatan,Kutai Timur,Kalimantan Timur,TRUE
+4,SITE-D,Pit Muara Wahau,Kutai Timur,Kalimantan Timur,TRUE
+5,SITE-E,Pit Asam-Asam,Tanah Laut,Kalimantan Selatan,FALSE

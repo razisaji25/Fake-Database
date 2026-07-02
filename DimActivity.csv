@@ -1,0 +1,9 @@
+activity_key,activity_code,activity_name,activity_type,description,is_active
+1,ACT-001,Drilling,Produksi,Kegiatan pengeboran lubang ledak,TRUE
+2,ACT-002,Blasting,Produksi,Kegiatan peledakan overburden/batubara,TRUE
+3,ACT-003,Overburden Removal,Produksi,Pengupasan lapisan tanah penutup,TRUE
+4,ACT-004,Coal Getting,Produksi,Penggalian dan pengambilan batubara,TRUE
+5,ACT-005,Hauling,Support,Pengangkutan material ke disposal/ROM,TRUE
+6,ACT-006,Road Maintenance,Support,Perawatan jalan tambang,TRUE
+7,ACT-007,Dewatering,Support,Pemompaan air dari pit,TRUE
+8,ACT-008,Reclamation,Non-Produksi,Kegiatan reklamasi lahan bekas tambang,FALSE
