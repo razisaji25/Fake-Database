@@ -1,0 +1,7 @@
+component_key,component_code,component_name,cost_type
+1,FUEL,Fuel,Variable
+2,TYRE,Tyre,Variable
+3,LUBE,Lubricant,Variable
+4,RM,Repair & Maintenance,Variable
+5,LAB,Labour,Fixed
+6,DEPR,Depreciation,Fixed
